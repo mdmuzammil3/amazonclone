@@ -1,0 +1,1 @@
+#This is just amazon clone using html css
